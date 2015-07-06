@@ -20,3 +20,6 @@ author:
 
 # Custom vars
 version:             0.2
+
+github:
+  repo:              https://github.com/tmray/tmray.github.com
