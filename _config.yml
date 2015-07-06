@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Tom Ray
+tagline:             'THE Tom Ray'
+description:         'Hopefully gonna be my blog home. Made by <a href="https://twitter.com/tmray" target="_blank">@tmray</a>.'
+url:                 http://tmray.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Tom Ray
+  url:               https://twitter.com/tmray
+  email:             tmray1@gmail.com
+
+# Custom vars
+version:             0.2
