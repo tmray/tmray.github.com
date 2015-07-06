@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Tom Ray
 tagline:             'THE Tom Ray'
 description:         'Hopefully gonna be my blog home. Made by <a href="https://twitter.com/tmray" target="_blank">@tmray</a>.'
-url:                 http://tmray.github.io
+url:                 http://tmray.github.io/
 baseurl:             ''
 paginate:            5
 

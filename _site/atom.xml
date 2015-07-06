@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Tom Ray</title>
- <link href="http://tmray.github.io/atom.xml" rel="self"/>
- <link href="http://tmray.github.io/"/>
- <updated>2015-07-06T14:22:31-05:00</updated>
- <id>http://tmray.github.io</id>
+ <link href="http://tmray.github.io//atom.xml" rel="self"/>
+ <link href="http://tmray.github.io//"/>
+ <updated>2015-07-06T15:11:39-05:00</updated>
+ <id>http://tmray.github.io/</id>
  <author>
    <name>Tom Ray</name>
    <email>tmray1@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Just a Placeholder</title>
-   <link href="http://tmray.github.io/2015/07/06/just-a-placeholder/"/>
+   <link href="http://tmray.github.io//2015/07/06/just-a-placeholder/"/>
    <updated>2015-07-06T00:00:00-05:00</updated>
-   <id>http://tmray.github.io/2015/07/06/just-a-placeholder</id>
+   <id>http://tmray.github.io//2015/07/06/just-a-placeholder</id>
    <content type="html">&lt;p&gt;The official v0.2 post for the new blog set up.&lt;/p&gt;
 
 &lt;p&gt;More later.&lt;/p&gt;
