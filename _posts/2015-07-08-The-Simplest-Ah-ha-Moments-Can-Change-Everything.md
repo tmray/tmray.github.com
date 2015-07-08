@@ -3,9 +3,6 @@ layout: post
 title: The Simplest Ah-ha Moments Can Change Everything
 ---
 
-![image](https://farm5.staticflickr.com/4081/4736127865_ae15dbdfdc_b.jpg)
-<cite>-Attribution Some rights reserved by <a href="https://flic.kr/p/8dvTNZ" target="_blank">Beverly & Pack</a>
-
 I love when realization happens. Something simple that takes a mundane task or thing you do over & over to a sense of disbelief. Because of something stupid you just didn't think to do. Your world changes. So many possibilities. All because you were shown something. 
 
 This I love. 
