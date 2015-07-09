@@ -2,21 +2,23 @@
 layout: post
 title: Collaboration Give or Take
 ---
+![Frank](http://www.kinnemaniac.com/wp-content/uploads/2014/09/1-Frank.jpg)
+In my work-a-day, 9to5 life I don't like to collaborate with people. Meaning, I do something and don't look for opinion. Not really wanting or need example of another way to do what I did. And its not a secret. Maybe you can relate?
 
-In my work-a-day 9to5 life I don't like to collaborate with people. Meaning, I do something and don't look for opinion. Not really want or need example of another way to do what I did. And its not a secret. maybe you can relate?
+Recently watched the movie "Frank". About a musician looking for stardom. Finds band that just lost a member and singer has giant paper mache head. You know, the norm.<br />
+<br />
+<a href="http://www.amazon.com/gp/product/B00NBNY7P2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00NBNY7P2&amp;linkCode=as2&amp;tag=lorsmus-20&amp;linkId=PPZW7NNE3FK57NSP" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B00NBNY7P2&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=lorsmus-20" /></a><img alt="" border="0" src="http://ir-na.amazon-adsystem.com/e/ir?t=lorsmus-20&amp;l=as2&amp;o=1&amp;a=B00NBNY7P2" height="1" style="border: none !important; margin: 0px !important;" width="1" />
+Our protagonist, the new musician to the group, shows them song he's working on. 
+They like the idea then step in front of his keyboard and start suggesting, do this or try this as he stands behind. 
 
-Recently watched the movie "Frank". About a musician looking for stardom. Finds band that just lost a member and singer has giant paper machete head. You know, the norm.
+My Wife turns to me and says "that must drive you nuts!"
 
-In it this musician shows them song he's working on. They like the idea then step in front of his keyboard and start suggesting, do this or try this as he stands behind. 
-
-Wife turns to me and says " that must drive you nuts!"
-
-You would think. Given what said before by all means I should hate that. 
+You would think. Given what I said before by all means I should hate that. 
 
 But I don't. Not in that situation. 
 
-Maybe because creatively I work with like minds I respect and choose to be around. I know what I do they'll make better. 
+Maybe because creatively I work with like minds I respect and choose to be around. I know they'll make what I do better. 
 
-In a work-a-day life you don't choose people. They're just there. And end of day I would rather be done doing that.
+Work life: you don't choose people. They're just there. And end of day I would rather be done doing that.
 
-Talking what I want to make with people I want to make it with is what I care more. 
+To make with people I want to make it with, I care more. 
