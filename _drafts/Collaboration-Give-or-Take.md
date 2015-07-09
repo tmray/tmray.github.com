@@ -3,6 +3,7 @@ layout: post
 title: Collaboration Give or Take
 ---
 ![Frank](http://www.kinnemaniac.com/wp-content/uploads/2014/09/1-Frank.jpg)
+
 In my work-a-day, 9to5 life I don't like to collaborate with people. Meaning, I do something and don't look for opinion. Not really wanting or need example of another way to do what I did. And its not a secret. Maybe you can relate?
 
 Recently watched the movie "Frank". About a musician looking for stardom. Finds band that just lost a member and singer has giant paper mache head. You know, the norm.<br />
