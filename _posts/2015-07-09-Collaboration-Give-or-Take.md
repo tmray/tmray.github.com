@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Collaboration Give or Take
+title: Collaboration... Give or Take
 ---
-![Frank](http://www.kinnemaniac.com/wp-content/uploads/2014/09/1-Frank.jpg)
+![Frank - the movie](https://lh3.googleusercontent.com/HLpGVedwt8Xs5o4jw2b8lCqC7ONKej4tUKgyB1ACGZRR=s650-no)
 
 In my work-a-day, 9to5 life I don't like to collaborate with people. Meaning, I do something and don't look for opinion. Not really wanting or need example of another way to do what I did. And its not a secret. Maybe you can relate?
 
@@ -22,4 +22,4 @@ Maybe because creatively I work with like minds I respect and choose to be aroun
 
 Work life: you don't choose people. They're just there. And end of day I would rather be done doing that.
 
-To make with people I want to make it with, I care more. 
+Make things with people I want to make them with, I care more. 
