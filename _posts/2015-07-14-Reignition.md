@@ -3,6 +3,9 @@ layout: post
 title: Re-ignition
 ---
 
+![Bad Brains](https://farm6.staticflickr.com/5180/5465576867_a707d11958_o.jpg)<br>
+<cite>&mdash; `CC-BY` Some rights reserved by [GregKolls](https://www.flickr.com/photos/47634603@N02/)</cite>
+
 I've heard people say pot is a gateway drug. Musically for me, the band Bad Brains was the gateway group for me.
 
 When I was growing up just getting into skateboarding and punk rock music. That weird time where it matters for some reason what you listen to. No longer could you just listen to things just because you liked them. You become aware they have to fit a criteria approved by groups you choose to hang out with.
