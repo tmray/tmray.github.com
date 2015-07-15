@@ -4,7 +4,7 @@ title: Re-ignition
 ---
 
 ![Bad Brains](https://farm6.staticflickr.com/5180/5465576867_a707d11958_o.jpg)
-<cite>&mdash; `CC-BY` Some rights reserved by [GregKolls](https://www.flickr.com/photos/47634603@N02/)</cite>
+<cite>&mdash; image by [GregKolls](https://www.flickr.com/photos/47634603@N02/) `CC-BY` Some rights reserved </cite>
 
 I've heard people say pot is a gateway drug. Musically for me, the band Bad Brains was the gateway group for me.
 
