@@ -6,10 +6,10 @@ Got wrapped up in a conversation about action figure collections with another th
 
 This lead to looking on web for them. 
 
-Started with He-Man, 
-then Mask, 
-then Silverhawks, 
-then Battle of the Planets.
+Started with <a href="http://amzn.to/1JnArMU" target="_blank">He-Man</a>,
+then <a href="http://amzn.to/1OcCxD5" target="_blank">M.A.S.K.</a>,
+then <a href="http://amzn.to/1THzy9c" target="_blank">Silverhawks</a>,
+then <a href="http://amzn.to/1Lftd3A" target="_blank">Battle of the Planets</a>.
 
 <img src="http://i.ebayimg.com/00/s/NTAwWDMyOQ==/z/QrEAAOxyeZNTViKv/$_35.JPG" style="float:right; margin:0 0 10px 10px;">While looking at rows of pictures from these searches, an old Whitman published 4 color comic was in the mix. I instantly had to open and look at that. 
 
