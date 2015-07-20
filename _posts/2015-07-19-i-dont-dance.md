@@ -13,7 +13,7 @@ I'd like to explain why. For me it's that I have a chance to see how a band does
 
 I got 2 opportunities to do that this weekend. 
 
-![New Pornographers](https://farm1.staticflickr.com/52/134576539_4bdeae47a7_z.jpg)
+![New Pornographers](https://farm1.staticflickr.com/52/134576539_4bdeae47a7_b.jpg)
 <cite>image - `CC-BY-NC-ND` Some rights reserved by <a href="https://www.flickr.com/photos/sgtfun/" target="_blank">sgt fun</a></cite>
 
 One was an outside show in downtown Madison where the **New Pornographers** played. Overall the performance was a good one. But the vocals were mixed more than the guitar, which seemed non-existent. That's always too bad when the sound mix is a problem, there's not really much you can do about that. But they were a solid live band.
