@@ -2,7 +2,7 @@
 layout: post
 title: Taking the plunge
 ---
-![Nestea Plunge commercial](http://i1.wp.com/www.retroist.com/wp-content/uploads/2014/07/Ice_Tea_Plunge.jpg)
+![Nestea plunge commercial](https://lh3.googleusercontent.com/SX8YgfCCw_AAnV9WrCVDaf5B7Z6eydyi-2ErP8VdY3HC=s684-no)
 
 Growing up there was a commercial, take the nestea plunge. Was just a person standing at the edge of a pool, takes a drink and falls backwards into the water.
 
