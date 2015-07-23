@@ -1,0 +1,19 @@
+---
+layout: post
+title: Notebooks
+---
+I have boxes I've kept around forever of old notebooks. Can't bring myself to throw them out. Seems wrong.
+
+I just think of the times, times of things so important that I needed to write down.
+
+Mostly it's lyrics or drawings. Really of no use. But I keep them. 
+
+Nowadays we have tons of ways to write things down, on phone or computer. I think then it's available when I need it. Can't even be lost.
+
+When I moved to a new house. I found that box and looked at these books again. One from 20 years ago. Could remember where I wrote these things. Some I know why I was writing at the time. Looking at it opened a little movie in my head that filled in the blanks of what wasn't on the page. 
+
+When I search for notes on my apps or phone I have no memory trigger like that. Relating to something I wrote on page after a doodle or something like that. Sometimes I can't remember what I was trying to say. It sits alone on screen in a page. Sure its searchable. But not like pouring through paper pages.
+
+I got nostalgic for that feeling again so I've started to keep a small notebook in my front pocket. So's I don't have to remember to carry it around. 
+
+So far I've learned my handwriting has gotten horrible.
