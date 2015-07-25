@@ -18,7 +18,7 @@ Showing next what had been written and sent same day last year.
 
 It wasn't an app. It was just an email. Once I got over the fact it got R.E.M.'s "Losing my religion" in my head because of it's site name, I looked forward to it. 
 
-Sometimes surprised my with things I had not thought were already a year old. Sometimes things I forgot I said was going to try.
+Sometimes surprised me with things I didn't think were already a year old or things I forgot I was going to try.
 
 My friends and family would even tell me "remember to put that in your thing!" They liked when I would send them update when their name showed up. 
 
