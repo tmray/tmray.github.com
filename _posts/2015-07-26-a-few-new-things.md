@@ -28,4 +28,4 @@ Took this chance to have a discussion with my co-host Doug, about creative commo
 
 Common mistake people make is, you can do anything you want with music under a CC license. That's not true.  The license itself says "Some rights reserved". These rights apply **with** basic copyright, not remove it.
 
-Have a listen to the episode on over on the [Music Manumit Podcast website](http://www.musicmanumit.com/2015/07/copyright-fight-150726-music-manumit.html).
+Have a listen to the episode on the [Music Manumit Podcast website](http://www.musicmanumit.com/2015/07/copyright-fight-150726-music-manumit.html).
