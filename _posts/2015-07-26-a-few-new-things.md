@@ -10,7 +10,7 @@ Posted a live in studio performance video. One of the songs from an internet sho
 
 This is the first song from that event - **"We all fall down"**.
 
-<a href="https://www.youtube.com/watch?v=JMb83zASU5U">
+<a href="https://www.youtube.com/watch?v=JMb83zASU5U" target="_blank">
   <img alt="image/video" border="0" src="http://1.bp.blogspot.com/-vZK1G5zZGOg/VbRafPETq1I/AAAAAAAAbLs/wQwsELteRzU/s800/yt-we-all-fall-down-video-title-card-w-button.png" title="Play Video &quot;We All Fall Down&quot;" />
 </a>
 
