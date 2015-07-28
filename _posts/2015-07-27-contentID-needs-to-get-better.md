@@ -35,3 +35,5 @@ I'm an indie artist. I get that doing this for large established acts could be a
 So i ask, why isn't this access given to approved artists? Why only companies that you are forced to work with just to use it?
 
 That's a real problem that I think should be addressed.
+
+Can you do this? Am I just not aware of it? If so, then it needs to be easier for musicians to know how.
