@@ -2,7 +2,7 @@
 layout: post
 title: Blogspot Chainsaw
 ---
-![Blogger logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/600px-Blogger.svg.png)
+![Blogger logo](https://upload.wikimedia.org/wikipedia/de/thumb/c/c8/Blogger_Logo.svg/800px-Blogger_Logo.svg.png)
 
 I started out with blogger many years ago. It was actually how I learned html and CSS. Chipping away at the designs in the pre-built templates.
 
