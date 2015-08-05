@@ -2,7 +2,7 @@
 layout: post
 title: Simple phone audio recording
 ---
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/David_Rovics_2013.jpg" alt="David Rovics 2013.jpg"><br>"Image - <a href="https://commons.wikimedia.org/wiki/File:David_Rovics_2013.jpg#/media/File:David_Rovics_2013.jpg">David Rovics 2013</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:Musikpirat&amp;action=edit&amp;redlink=1" class="new" title="User:Musikpirat (page does not exist)">Christian Hufgard</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/David_Rovics_2013.jpg" alt="David Rovics 2013.jpg">"Image - <a href="https://commons.wikimedia.org/wiki/File:David_Rovics_2013.jpg#/media/File:David_Rovics_2013.jpg">David Rovics 2013</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:Musikpirat&amp;action=edit&amp;redlink=1" class="new" title="User:Musikpirat (page does not exist)">Christian Hufgard</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.
 
 Did an interview with singer/songwriter **David Rovics** [on my podcast this weekend](http://www.musicmanumit.com/2015/08/david-rovics-returns-150802-music.html).
 
