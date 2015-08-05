@@ -2,6 +2,8 @@
 layout: post
 title: Blogspot Chainsaw
 ---
+![Blogger logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/600px-Blogger.svg.png)
+
 I started out with blogger many years ago. It was actually how I learned html and CSS. Chipping away at the designs in the pre-built templates.
 
 I still have a few of my sites there. Just don't want to migrate them. Plus it can handle heavy traffic and no server cost. 
