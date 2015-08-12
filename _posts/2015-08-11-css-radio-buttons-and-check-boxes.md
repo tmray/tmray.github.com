@@ -122,4 +122,4 @@ The html set is based on the form elements in the bootstrap documentation.
 
 The `<span>` for each `input` has been added in these examples.
 
-You can adjust the `margin:` and `height:` & `width:` in the `input:checked + .checkmark-selection:before` css to change the way the check mark looks.
+You can adjust the `margin:` and `height:` & `width:` in the `input:checked + .checkmark-selection:before` CSS if you want to change the way the check mark looks.
