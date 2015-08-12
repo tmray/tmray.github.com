@@ -1,6 +1,6 @@
 ---
 layout: post
-title: css radio buttons and check boxes
+title: CSS Radio Buttons and Check Boxes
 ---
 Last 3 years almost every web or software design I've worked on required some kind of unique version of these.
 
