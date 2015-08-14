@@ -5,7 +5,17 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
+  <hr>
   {{ content }}
+  {% include share-page.html %}
+</div>
+
+<div class="questions">
+  <h2>Questions?</h2>
+  <p>
+    Have something you want to say about this post?<br/>
+    Ask me on <a href="https://twitter.com/intent/tweet?text=@{{ site.author.twitter_username }}&url={{ site.url }}{{ page.url }}&related={{ site.author.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>.
+  </p>
 </div>
 
 <div class="related">

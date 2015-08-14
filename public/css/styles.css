@@ -1,0 +1,26 @@
+hr {
+  width: 100px;
+  margin: 0px auto 30px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  letter-spacing: -0.02rem;
+}
+h1.post-title,
+span.post-date {
+  text-align: center;
+}
+ul.share-buttons {
+  list-style: none;
+  padding: 0;
+}
+ul.share-buttons li {
+  display: inline;
+  float: left;
+  width: 40px;
+}
