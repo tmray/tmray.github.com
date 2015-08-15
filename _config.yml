@@ -6,9 +6,9 @@ relative_permalinks: true
 
 # Setup
 title:               Tom Ray
-tagline:             'THE Tom Ray'
-description:         'Hopefully gonna be my blog home. Made by <a href="https://twitter.com/tmray" target="_blank">@tmray</a>.'
-url:                 http://tmray.github.io/
+tagline:             'Just a blog.'
+description:         'The thoughts of a man who has nothing relevant on his mind. Made by <a href="https://twitter.com/tmray" target="_blank">@tmray</a>.'
+url:                 http://tmray.github.io
 baseurl:             ''
 paginate:            5
 
@@ -17,6 +17,10 @@ author:
   name:              Tom Ray
   url:               https://twitter.com/tmray
   email:             tmray1@gmail.com
+  twitter_username:  tmray
 
 # Custom vars
-version:             0.2
+version:             0.3
+
+github:
+  repo:              https://github.com/tmray/tmray.github.com
