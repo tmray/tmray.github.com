@@ -11,7 +11,7 @@ All of the music is under creative commons and available for commercial use.
 **Music Manumit** is an interview show I started with [@dawmusicmanumit](https://twitter.com/dawmusicmanumit), we talk to musicians that release music under **creative commons**.
 
 This blog is just a place to post my day to day thoughts.<br/>
-These may involve but are not limited to:<br/>
-things I'm working on, artistic ventures, experiences or the virtually out of nowhere pop-culture references that get stuck in my head.
+These may involve, but are not limited to:<br/>
+things I'm working on, artistic ventures, experiences, or the virtually out of nowhere pop-culture references that get stuck in my head.
 
 If you have a comment or ask a question, feel free to ask me on [Twitter](https://twitter.com/tmray), or, via email at tmray1 at gmail dot com.
