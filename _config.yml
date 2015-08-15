@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Tom Ray
-tagline:             'THE Tom Ray'
+tagline:             'Just a blog.'
 description:         'The thoughts of a man who has nothing relevant on his mind. Made by <a href="https://twitter.com/tmray" target="_blank">@tmray</a>.'
 url:                 http://tmray.github.io
 baseurl:             ''
