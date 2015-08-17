@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ubuntu studio interview
+title: Ubuntu Studio Interview
 ---
 Years ago I decided to stop pirating software and move to open source tools. 
 
