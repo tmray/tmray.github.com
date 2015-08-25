@@ -2,6 +2,8 @@
 layout: post
 title: My first comic con
 ---
+![Me & K.I.T.T.](https://lh3.googleusercontent.com/BDo-3mJq4WW7UICsZvFwWdQEVI5udFkFNRHMNDGTb6kC=w625-h656-no)
+
 I've been a comic book fan for many years and have always wanted to go to a comic con.
 
 I usually remember that it's happening after the fact, missing out and thinking next year. 
