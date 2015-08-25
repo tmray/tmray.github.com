@@ -64,6 +64,6 @@ I'm happy with my stories that I have about meeting these people. But everyone a
 
 I guess I just felt it would take away from talking to them as a person I think.
 
-But I did get a kick ass picture with the knight rider car. I mean that's just a cool thing to do right!?
+But I did get a kick ass picture with the **Knight Rider** car. I mean that's just a cool thing to do right!?
 
 ![Me & K.I.T.T.](https://lh3.googleusercontent.com/BDo-3mJq4WW7UICsZvFwWdQEVI5udFkFNRHMNDGTb6kC=w800-no)
