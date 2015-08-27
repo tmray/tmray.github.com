@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windowless vans, ice cream trucks & RV's
+title: Windowless vans, ice cream trucks &amp; RV's
 ---
 These are all things that have become creepy in my lifetime.
 
