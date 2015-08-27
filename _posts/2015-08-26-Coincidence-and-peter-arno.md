@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coincidence & Peter Arno
+title: Coincidence &amp; Peter Arno
 ---
 ![Peter Arno drawings](https://lh3.googleusercontent.com/zArsvumERDt0cs4w1sZIqyaDWZdigyoC8VW0ogNXUpJQ=w800-no)
 
