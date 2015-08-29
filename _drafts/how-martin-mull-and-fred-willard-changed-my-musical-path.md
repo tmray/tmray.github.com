@@ -2,7 +2,9 @@
 layout: post
 title: How Martin Mull and Fred Willard changed my musical path forever
 ---
-In my 20's I was really looking for something different. Nirvana had just broken out to the mainstream world which was a good thing.
+In my 20's I was really looking for something different. 
+
+**Nirvana** had just broken out to the mainstream world, which was a good thing.
 
 The problem was, after that every existing band decided to make a grunge album. Labels would sign anyone from Seattle.
 
@@ -12,9 +14,9 @@ People I knew would play this stuff repeatedly. I still say to this day I don't 
 
 I was looking for something different.
 
-Problem was I didn't know where to look for it. There wasn't a streaming service at the time to suggest something. 
+But I didn't know where to look for it. There wasn't a streaming service at the time to suggest something. 
 
-But I found a suggestion in the most unlikely place. A **Nick-at-nite** TV program. 
+Then I found a suggestion in the most unlikely place. A **Nick-at-nite** TV program. 
 
 The show was called **Fernwood Tonight**. 
 
@@ -22,11 +24,11 @@ It was an obscure spinoff of another show from the 70's **"Mary Hartman, Mary Ha
 
 The concept was, a late night talk show but hosted in a small town called Fernwood.
 
-Like the show **Between Two Ferns**. it was just made decades earlier and hosted by Martin Mull & Fred Willard.
+Like the show **Between Two Ferns**. Only it was just made decades earlier and hosted by Martin Mull & Fred Willard.
 
 So I'm watching this and finding it thoroughly entertaining.
 
-Then they introduce the musical guest. He's passing through town and his van broke down so he came to do the show to pay for it.
+Then they introduce the musical guest. He's passing through town and his van broke down. So he came to do the show to pay for it.
 
 His name was **Tom Waits**.
 
@@ -50,7 +52,9 @@ I looked for the one that had the song from last night. Found it on the one call
 
 I had no idea what to expect. And Jesus, did I not expect this!
 
-Thought maybe at its worst it would be a comedy album. But it opened with a serious ballad heart break ballad. Then it jumped from cool upright bass & scatting vocals to fucking beat poetry over a free style saxophone that sounded like a New York street corner soliloquy.
+Thought maybe at its worst, it would be a comedy album. 
+
+But it opened with a serious heart break ballad. Then it jumped from cool upright bass & scatting vocals to beat poetry over a free style saxophone that sounded like a New York street corner soliloquy.
 
 It was different from anything around at the time. I had discovered something.
 
@@ -58,16 +62,18 @@ But here's the thing. This album was from the 70's. And at this time, I was unaw
 
 Then, when I went back to get more by this guy, I saw it. **Bone Machine**.
 
-I didn't know it but this album was going to change my musical direction forever.
+I didn't know it, but this album was going to change my musical direction forever.
 
 This album was just nothing like I had ever heard!
 
-The sounds were out of nowhere. The lyrics and vocals just did things I didn't know how to do.
+The sounds were out of nowhere. The lyrics and vocals just did things I didn't know how to do. And from the man with that same voice.
 
-That's when went from just finding something different to wanting to know how to make things that felt and sounded this way. 
+That's when it went from just finding something different, to wanting to know how to make things that felt and sounded this way. 
 
 I needed to figure it out. I needed to know how it was done.
 
-I studied every aspect of his albums after this. I started experimenting with different instruments and recording techniques. Mixing media types, handheld recorders and reel to reel tapes. Layering studio takes on top of it to get more depth and sound.
+I studied every aspect of his albums after this. 
+
+I started experimenting with different instruments and recording techniques. Mixing media types, handheld recorders and reel to reel tapes. Layering studio takes on top of it to get more depth and sound.
 
 And I haven't stopped. I'm not sure where I would be musically if I hadn't seen this silly little cult program one night.
