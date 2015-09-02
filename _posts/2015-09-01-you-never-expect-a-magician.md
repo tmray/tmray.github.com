@@ -1,6 +1,6 @@
 ---
 layout: post
-title: you never expect a magician
+title: You never expect a magician
 ---
 Truth be told I've actually thought about this situation before. I've asked friends about it. What would it be like to know a magician?
 
