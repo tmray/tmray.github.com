@@ -4,7 +4,7 @@ title: At first I was annoyed...
 ---
 Someone had sent an email looking for guidance in the field I work in.
 
-The was very vague. Pretty much asking can you help us with... everything?
+It was fairly vague. Pretty much asking can you help us with... everything?
 
 Not out of the ordinary, if you're looking for help with something you know nothing about.
 
