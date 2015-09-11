@@ -20,7 +20,7 @@ What I didn't think about was the light below the ice maker was still on. I didn
 
 So as the water from the maker ran down the side, it was going directly on the light. It exploded with a loud pop! Scared the shit out of me!
 
-With the thought of being electrocuted already in my head, I stood there. And for a brief second thought "Am I dead?" It this one of those situations where, if I turn around am I going to see myself lying on the floor? Like in the movies where someone dies and they leave their body.
+With the thought of being electrocuted already in my head, I stood there. And for a brief second thought "Am I dead?" Is this one of those situations where, if I turn around am I going to see myself lying on the floor? Like in the movies where someone dies and they leave their body.
 
 Luckily that was not the case.
 
