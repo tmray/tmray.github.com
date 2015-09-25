@@ -12,7 +12,7 @@ I miss half the movie because I'm trying to understand, going over in my head th
 
 _"did their parents actually name them that? Or is it just a ridiculous nickname that somebody gave them?"_
 
-And if that's true, if that was actually a name someone was give when they were born, why did it stop? At what point in human existence did people just eventually stop naming their children that?
+And if it's true, if that was actually a name someone gave them when they were born. Why did it stop? At what point in human existence did people just eventually stop naming their children that?
 
 Or was it just a ridiculous naming convention created by writers?
 
