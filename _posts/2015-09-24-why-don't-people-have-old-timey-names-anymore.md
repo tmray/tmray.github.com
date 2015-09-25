@@ -10,7 +10,7 @@ I like to watch those old 1940's movies. There's a bunch on Amazon. And it's jus
 
 I miss half the movie because I'm trying to understand, going over in my head thinking:
 
-_"did their parents actually named them that? Or is it just a ridiculous nickname that somebody gave them?"_
+_"did their parents actually name them that? Or is it just a ridiculous nickname that somebody gave them?"_
 
 And if that's true, if that was actually a name someone was give when they were born, why did it stop? At what point in human existence did people just eventually stop naming their children that?
 
