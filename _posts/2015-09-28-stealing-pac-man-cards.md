@@ -23,7 +23,7 @@ They weren't the same as the others. They even had a sort of lottery card like e
 On top of that, all the artwork was just really cool. Me and all my friends thought that the new 8-bit graphics that these arcade games had were just genius. We tried to emulate those particular styles in our own drawings and artwork.
 
 
-The reason I bring all this up is because I was thinking today about these cards, and remembered it was the first and only time that I can remember I ever stole something.
+The reason I bring all this up is because I was thinking today about these cards. It occurred to me that it was the first, and only time, that I can remember I ever stole something.
 
 
 I've by no means been an angel my entire life. But I recalled the one time I stole a pack of these cards and how I really felt bad about it.
