@@ -1,6 +1,6 @@
 ---
 layout: post
-title: transcribed
+title: Transcribed
 ---
 For days now I've been doing transcriptions. Pouring over huge audio recordings of band practices. 
 
