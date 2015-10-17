@@ -1,7 +1,9 @@
 ---
 layout: post
-title: the story of the mystery clothes
+title: The story of the mystery clothes
 ---
+![Pile of clothes](https://lh3.googleusercontent.com/YkgpRgfHNXZHVeooODAMvnjPma-XPNus8ePrRTqgRwOUAGI0tZlYXM7gkUmJlOvTL_AIYG7jjpnEhyqfsuIr4Ay1-PmaRfbdJgizHYRLgX7Hj4KgC0ip5nBAkm-i35UnD4S-ErYKBTP43SxD_W9gcCVDwVJhPgpvxulKqpiOeU9Xc2LHOLOM7S8rxd6UZJ74C1SKRpTsIkGxQ13Nde1ACcpv-7fgm9hApCYtrDvyjj3uQResD0C2S2SZw12c4ph_-n7s6caadNHfvCKSMsAmfbNNkq0_129NpzftK3TG7VukHOrT-vxNvOHVkEb0tmAaM1xzspS76wLTHg8QydUUQ4DBIUa2i4ZbiaOvLjSyxxNVW-7U4x9WseJ9sdvazRPL9VaXCr2vOGgEDROUIUL_OZ99kTmXBa7l4lj1Oll_XTNV1e6WnhNiqizNX-wuCQK2T_5Wxs0fZGPRAjKp_Rb-2B85ziBfuGWyFerlQeggh9bSitgsqA6s3IwpJrV_m_MxfWctbGokGRwQCAekoU05E9zG6UvcxoHIwgArXalKL9SU=s800-no)
+
 I was out at the studio with my friend Rob. It was a cold October night. And at one point I went outside to have a cigarette.
 
 The door to our recording studio is at the end of a long alleyway between two buildings that leads out to a sidewalk. And there's not really any lighting there.
