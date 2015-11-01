@@ -10,4 +10,4 @@ I'm just curious why it doesn't get the same time consideration as Christmas? I'
 
 But when Christmas is over, its perfectly OK to keep your decorations up well into February.
 
-I think I'm just upset that I know winter comes next.
+I think I'm just upset that I know winter is coming.
