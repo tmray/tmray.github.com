@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Whats in a name?
+title: What's in a name?
 ---
 As thanksgiving approaches every year I get another chance to tell the origin of my name. 
 
