@@ -2,7 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
 title:               Tom Ray
@@ -24,3 +24,5 @@ version:             0.3
 
 github:
   repo:              https://github.com/tmray/tmray.github.com
+
+gems: [jekyll-paginate, jekyll-gist]
