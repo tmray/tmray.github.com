@@ -1,5 +1,6 @@
 ---
 published: false
+photo: "https://farm4.staticflickr.com/3871/14648466602_37e1616e10_c.jpg"
 ---
 
 ![text editor]({{site.baseurl}}/https://farm4.staticflickr.com/3871/14648466602_37e1616e10_c.jpg)
