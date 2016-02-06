@@ -3,7 +3,7 @@ published: true
 photo: "https://farm4.staticflickr.com/3871/14648466602_37e1616e10_c.jpg"
 ---
 
-![text editor]({{site.baseurl}}/https://farm4.staticflickr.com/3871/14648466602_37e1616e10_c.jpg)
+![text editor](https://farm4.staticflickr.com/3871/14648466602_37e1616e10_c.jpg)
 ## Trying to break free of a cms
 
 So I was thinking about building Jekyll sites since hosting is soo easy with github pages. But how would an author use it?
