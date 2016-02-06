@@ -1,7 +1,7 @@
 ---
+layout: post
 published: true
 Title: Prose.io Test
-layout: post
 ---
 
 ![text editor](https://farm4.staticflickr.com/3871/14648466602_37e1616e10_c.jpg)
