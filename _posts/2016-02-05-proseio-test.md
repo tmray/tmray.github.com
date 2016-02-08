@@ -19,5 +19,3 @@ I already use the [MrHyde mobile app](http://faudroids.org/MrHyde/ "link") to do
 It even looks like it has a front-matter option in the menu to use. Although it's called a meta-data editor which was not obvious at first. But it works!
 
 Cool find.
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
