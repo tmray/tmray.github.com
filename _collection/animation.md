@@ -2,7 +2,7 @@
 layout: page
 title: "Animation"
 summary: "Stand-alone shop page for albums"
-img: "/public/images/e-store-prototype.png"
+img: "/public/images/homemade-cartoon-screen.png"
 tag: [prototype, wireframe]
 ---
 

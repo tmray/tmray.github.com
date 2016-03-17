@@ -16,8 +16,8 @@
   @include flex-grow(1);
 
   //background: url("https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png");
-  background-position: top;
-  background-size: cover;
+  background-position: top !important;
+  background-size: cover !important;
   background-color: beige;
   border: 1px solid $base-border-color;
   cursor: pointer;
@@ -48,10 +48,13 @@
     height: inherit;
     overflow: hidden;
     padding: $base-spacing;
+    a {
+      text-decoration: none;
+    }
   }
 
   .hover-tile-hidden {
-    background: transparentize(#fff, 0.5);
+    background: transparentize(#000, 0.5);
 
     p {
       color: transparentize(#fff, 0.3);
@@ -59,6 +62,7 @@
     }
 
     h4 {
+      color: transparentize(#fff, 0.3);
       margin: 0 0 0.5em 0;
     }
   }
