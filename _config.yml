@@ -25,4 +25,10 @@ version:             0.4
 github:
   repo:              https://github.com/tmray/tmray.github.com
 
+# Collection folders
+collections:
+  collection:
+    output: true
+
+
 gems: [jekyll-paginate, jekyll-gist]
