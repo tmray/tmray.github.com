@@ -1,9 +1,19 @@
+.hover-tiles {
+  @include display(flex);
+  @include flex-wrap(wrap);
+  @include justify-content(space-between);
+}
+
 .hover-tile-outer {
   $base-border-color: gainsboro !default;
   $base-line-height: 1.5em !default;
   $medium-screen: em(640) !default;
   $hover-tile-height: 10em;
   $base-spacing: 1.5em;
+  $tile-margin: 1em;
+
+  @include flex-basis(15em);
+  @include flex-grow(1);
 
   //background: url("https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png");
   background-position: top;
@@ -12,10 +22,14 @@
   border: 1px solid $base-border-color;
   cursor: pointer;
   height: $hover-tile-height;
+  margin-right: $tile-margin;
   margin-bottom: $base-line-height;
 
   @include media($medium-screen) {
-    width: 40%;
+    @include span-columns(6);
+    &:last-child {
+      margin-right: 2.35765%;
+    }
   }
 
   .hover-tile-container {
