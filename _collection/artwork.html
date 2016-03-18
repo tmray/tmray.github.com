@@ -8,29 +8,33 @@ tag: [artwork, design]
 <script src="/bower_components/lightbox2/src/js/lightbox.js"></script>
 <link href="/bower_components/lightbox2/src/css/lightbox.css" rel="stylesheet" />
 <div class="grid-items">
-{% for gallery in site.data.galleries %}
-    <div id="gallery1">
+  <div id="gallery1">
+    {% for gallery in site.data.galleries %}
     <h1>{{ gallery.description }}</h1>
-    {% for image in gallery.images %}
       <div class="grid-item">
+        {% for image in gallery.images %}
         <a href="{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
           <img src="{{ image.thumb }}">
         </a>
-        <p>{{ image.text }}</p>
+        {% endfor %}
       </div>
-    {% endfor %}
+      <p>{{ image.text }}</p>
+      {% endfor %}
   </div>
-{% endfor %}
 </div>
 
-<!-- {% for gallery in site.data.galleries %}
 <div class="grid-items">
-  <a href="{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}" class="grid-item">
-    {% for image in gallery.images %}
-    <img src="{{ image.thumb }}" alt="">
+  <div id="gallery2">
+    {% for gallery in site.data.drawings %}
     <h1>{{ gallery.description }}</h1>
-    <p>{{ image.text }}</p>
-    {% endfor %}
-  </a>
+      <div class="grid-item">
+        {% for image in gallery.images %}
+        <a href="{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+          <img src="{{ image.thumb }}">
+        </a>
+        {% endfor %}
+      </div>
+      <p>{{ image.text }}</p>
+      {% endfor %}
+  </div>
 </div>
-{% endfor %} -->

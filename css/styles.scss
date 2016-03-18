@@ -11,3 +11,8 @@
 @import "share-icons";
 @import "hover-tile";
 @import "grid-items";
+@import "flex-boxes";
+
+#gallery1 {
+  @include row;
+}
