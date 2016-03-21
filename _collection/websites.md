@@ -2,149 +2,139 @@
 layout: page
 title: "Websites"
 summary: "Stand-alone shop page for albums"
-img: "/public/images/e-store-prototype.png"
-tag: [prototype, wireframe]
+img: "/public/images/low-download-page.png"
+tag: [Websites]
 ---
 
-_The following document is a collection of notes and sketches for a micro-site store._
------------------------------------------------------------------------------------
+CSS3 animated player landing page
+=================================
 
----
+![low-download-page](/public/images/low-download-page.png)
 
-I am currently working with a performer/musician/public speaker, that would like to extend the “paypal buy” button option he has on his site into a custom store.
+A lead generation page for a free music download.
+The background becomes active after the music sample is played using css3 and JavaScript.
+It's also designed for mobile devices.
 
-Client wants this store to have a preview player for songs and the option to sell digital downloads.
-
-Summary
--------
-
-**Physical and digital sales**
-
-Currently he sells physical items and wants a digital download option.
-
-Must be:
-
-* Full album downloads
-* Value bundle package options
-* Promotional sale codes
-
-Current site has:
-
-* Paypal button
-
-New Site Possibilities
-----------------------
-
-**Cart**
-
-The option for the cart will be cashmusic.js. I have worked with the developer of [cashmusic.org](https://cashmusic.org) on his project. Using this as the cart will give us access to support if needed and has no additional fees. It also includes all of the options requested.
-
-**Cashmusic.js**
-
-* Paypal integration
-* Download code capabilities
-* Physical/digital options
-* Connects to **amazon storage** or **Google drive** for digital items
-* Hosted library management back end
-* Embedded, custom design
-
-**Site**
-
-The site will be a static **liquid template** using a **jekyll** based design hosted on our Amazon server.
-The site will be designed to look like the main site with navigation that will like back to all of section on that main site. We will host it on a subdomain like store.example.com
+Link to example: [http://goo.gl/eSJYtc](http://goo.gl/eSJYtc)
 
 ---
 
-Wireframes
-==========
+Ben Sidran - There Was a Fire - Book Promo Landing Page
+=======================================================
 
-_Working out the structure - How the pages will be put together_
---------------------------------------------------------------
+![there-was-a-fire-screenshot](/public/images/there-was-a-fire-screenshot.png)
 
+I am currently heading the online promotional campaign for Ben Sidran's book "THERE WAS A FIRE: Jews, Music and the American Dream". Ben is the host of National Public Radio’s landmark jazz series “Jazz Alive”.
 
-Store Landing page
-------------------
+There Was a Fire - landing page [http://therewasafire.blogspot.com/](http://therewasafire.blogspot.com/)
 
-![store home wireframe example](/public/images/wireframe-store-landing-page.jpg)
+I created this page using Google's own Blogger platform. I decided to completely re-write the default code the was built inside Blogger, making my own customized landing page template on top of their code language.
 
-**Components for Store Home Page**
+I decided to open up this process and created a repository called **Chainsaw**. It's a starting point for those that may also want to do this and still be able to use the Blogger CMS interface.
 
-1. Header
-  * Match current site
-2. Navigation
-  * Similar links as website
-3. Feature component
-  * Product image - left
-  * Description - right
-  * Showcases current release
-  * Component links to release album page
-4. Card components
-  * Product image - top
-  * Title and short description
-  * Cards will display two per row
-  * Card rows will repeat as many times as needed
-  * Clicking cards will open release album page
-5. Parallax window
-  * Faded background image
-  * Text - information and more about the project
-6. Second feature component
-  * This is the same as the top component featuring bundle package
-7. Footer
-  * Information and design of footer will match the main site
+Blogger re-write Example
+------------------------
+```
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+  <head>
+    <meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/>
+    <b:if cond='data:blog.isMobile'>
+    <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'/>
+    <b:else/>
+      <meta content='width=1100' name='viewport'/>
+    </b:if>
+    <b:include data='blog' name='all-head-content'/>
+    <title><data:blog.pageTitle/></title>
+    <b:skin>
+     <![CDATA[
+      /*body {
+       font: $(body.font);
+       color: $(body.text.color);
+       background: $(body.background);
+       padding: 0 $(content.shadow.spread) $(content.shadow.spread) $(content.shadow.spread);
+       $(body.background.override) margin: 0;
+       padding: 0;
+      }*/
+     ]]>
+    </b:skin>
+  </head>
+  <body>
+    <!-- Blogger main section -->
+    <b:section class='main' id='main' showaddelement='yes'>
+      <!-- blogger posts -->
+      <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog'/>
+    </b:section>
+    <!-- /end Blogger main section -->
+  </body>
+</html><?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+  <head>
+    <meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/>
+    <b:if cond='data:blog.isMobile'>
+    <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'/>
+    <b:else/>
+      <meta content='width=1100' name='viewport'/>
+    </b:if>
+    <b:include data='blog' name='all-head-content'/>
+    <title><data:blog.pageTitle/></title>
+    <b:skin>
+     <![CDATA[
+      /*body {
+       font: $(body.font);
+       color: $(body.text.color);
+       background: $(body.background);
+       padding: 0 $(content.shadow.spread) $(content.shadow.spread) $(content.shadow.spread);
+       $(body.background.override) margin: 0;
+       padding: 0;
+      }*/
+     ]]>
+    </b:skin>
+  </head>
+  <body>
+    <!-- Blogger main section -->
+    <b:section class='main' id='main' showaddelement='yes'>
+      <!-- blogger posts -->
+      <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog'/>
+    </b:section>
+    <!-- /end Blogger main section -->
+  </body>
+</html>
+```
 
-
-Album Page
-----------
+All the code examples can be viewed here.
 
-![store album page wireframe example](/public/images/wireframe-album-page.jpg)
-
-**Components for album pages**
-
-1. Navigation
-  * Same as store landing page
-2. Feature component
-  * On album pages the feature component will be used to display the album connected to that page
-  * Cashmusic.js cart buttons are below the album description
-3. Album player
-  * Start/stop button
-  * Playlist
-  * Clicking a song title will also play song
-  * Album description displayed to right of player
-  * Cashmusic.js buttons will also display below player
-4. Card components
-  * Same as store landing page
-  * Will display the other available albums
-5. Footer
-  * Information and design of footer will match the main site
+Github repository - [https://github.com/tmray/chainsaw](https://github.com/tmray/chainsaw)
 
 ---
 
-Prototypes
-==========
+dig.ccmixter prototype
+======================
 
-_Working example based on approved wireframes_
-----------------------------------------------
+![dig.ccmixter](/public/images/dig.ccmixter.png)
 
-![prototype screenshot](/public/images/e-store-prototype-large.png)
+A design prototype built using ember.js.
 
-Prototype example
------------------
+The creative commons music site **dig.ccmixter** asked if I could show them a version of their site that used the material design concept.
 
-To start the discussion a prototype was made to confirm everything discussed from the wireframe session worked on the page and create a dialog with the client.
-
-This is to check that the components meet the expectations before implementing any design.
-
-**Examples created**
-
-Store home page - http://goo.gl/pEXq9p
-Album preview/buy page - http://goo.gl/XKj0I8
+The prototype example can be found here: [http://goo.gl/aqjFPX](http://goo.gl/aqjFPX)
 
 ---
 
-Next steps
-----------
-Color branding and image sources artwork for approval
+Overture Center - Redesign
+==========================
 
+![overture](/public/images/overture.png)
 
+Website and design I created for the Overture Center for the Arts when they had originally redesigned and re-branded the entire organization back in 2007. http://goo.gl/o997Q
 
-Github code repository for project - https://goo.gl/sDzbCG
+---
+
+eCare Connect - Mobile App
+==========================
+
+![mobile-card](/public/images/mobile-card.png)
+
+Screen shots for different sections of a client connection mobile app. Created using CSS3 SASS/Compass and Sencha Touch
+
+---
