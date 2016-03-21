@@ -6,7 +6,7 @@ img: "/public/images/e-store-prototype.jpg"
 tag: [prototype, wireframe]
 ---
 
-_The following document is a collection of notes and sketches for a micro-site store._
+_The following is a collection of notes and sketches for a micro-site store prototype._
 -----------------------------------------------------------------------------------
 
 ---
@@ -136,8 +136,8 @@ This is to check that the components meet the expectations before implementing a
 
 **Examples created**
 
-Store home page - http://goo.gl/pEXq9p
-Album preview/buy page - http://goo.gl/XKj0I8
+* Store home page - [http://goo.gl/pEXq9p](http://goo.gl/pEXq9p)
+* Album preview/buy page - [http://goo.gl/XKj0I8](http://goo.gl/XKj0I8)
 
 ---
 
