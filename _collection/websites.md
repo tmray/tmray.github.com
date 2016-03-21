@@ -1,0 +1,140 @@
+---
+layout: portfolio
+title: "Websites"
+summary: "Stand-alone shop page for albums"
+img: "/public/images/low-download-page.png"
+tag: [Websites]
+---
+
+CSS3 animated player landing page
+=================================
+
+![low-download-page](/public/images/low-download-page.png)
+
+A lead generation page for a free music download.
+The background becomes active after the music sample is played using css3 and JavaScript.
+It's also designed for mobile devices.
+
+Link to example: [http://goo.gl/eSJYtc](http://goo.gl/eSJYtc)
+
+---
+
+Ben Sidran - There Was a Fire - Book Promo Landing Page
+=======================================================
+
+![there-was-a-fire-screenshot](/public/images/there-was-a-fire-screenshot.png)
+
+I am currently heading the online promotional campaign for Ben Sidran's book "THERE WAS A FIRE: Jews, Music and the American Dream". Ben is the host of National Public Radio’s landmark jazz series “Jazz Alive”.
+
+There Was a Fire - landing page [http://therewasafire.blogspot.com/](http://therewasafire.blogspot.com/)
+
+I created this page using Google's own Blogger platform. I decided to completely re-write the default code the was built inside Blogger, making my own customized landing page template on top of their code language.
+
+I decided to open up this process and created a repository called **Chainsaw**. It's a starting point for those that may also want to do this and still be able to use the Blogger CMS interface.
+
+Blogger re-write Example
+------------------------
+```
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+  <head>
+    <meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/>
+    <b:if cond='data:blog.isMobile'>
+    <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'/>
+    <b:else/>
+      <meta content='width=1100' name='viewport'/>
+    </b:if>
+    <b:include data='blog' name='all-head-content'/>
+    <title><data:blog.pageTitle/></title>
+    <b:skin>
+     <![CDATA[
+      /*body {
+       font: $(body.font);
+       color: $(body.text.color);
+       background: $(body.background);
+       padding: 0 $(content.shadow.spread) $(content.shadow.spread) $(content.shadow.spread);
+       $(body.background.override) margin: 0;
+       padding: 0;
+      }*/
+     ]]>
+    </b:skin>
+  </head>
+  <body>
+    <!-- Blogger main section -->
+    <b:section class='main' id='main' showaddelement='yes'>
+      <!-- blogger posts -->
+      <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog'/>
+    </b:section>
+    <!-- /end Blogger main section -->
+  </body>
+</html><?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+  <head>
+    <meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/>
+    <b:if cond='data:blog.isMobile'>
+    <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'/>
+    <b:else/>
+      <meta content='width=1100' name='viewport'/>
+    </b:if>
+    <b:include data='blog' name='all-head-content'/>
+    <title><data:blog.pageTitle/></title>
+    <b:skin>
+     <![CDATA[
+      /*body {
+       font: $(body.font);
+       color: $(body.text.color);
+       background: $(body.background);
+       padding: 0 $(content.shadow.spread) $(content.shadow.spread) $(content.shadow.spread);
+       $(body.background.override) margin: 0;
+       padding: 0;
+      }*/
+     ]]>
+    </b:skin>
+  </head>
+  <body>
+    <!-- Blogger main section -->
+    <b:section class='main' id='main' showaddelement='yes'>
+      <!-- blogger posts -->
+      <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog'/>
+    </b:section>
+    <!-- /end Blogger main section -->
+  </body>
+</html>
+```
+
+All the code examples can be viewed here.
+
+Github repository - [https://github.com/tmray/chainsaw](https://github.com/tmray/chainsaw)
+
+---
+
+dig.ccmixter prototype
+======================
+
+![dig.ccmixter](/public/images/dig.ccmixter.png)
+
+A design prototype built using ember.js.
+
+The creative commons music site **dig.ccmixter** asked if I could show them a version of their site that used the material design concept.
+
+The prototype example can be found here: [http://goo.gl/aqjFPX](http://goo.gl/aqjFPX)
+
+---
+
+Overture Center - Redesign
+==========================
+
+![overture](/public/images/overture.png)
+
+Website and design I created for the Overture Center for the Arts when they had originally redesigned and re-branded the entire organization back in 2007. http://goo.gl/o997Q
+
+---
+
+eCare Connect - Mobile App
+==========================
+
+![mobile-card](/public/images/mobile-card.png)
+
+Screen shots for different sections of a client connection mobile app. Created using CSS3 SASS/Compass and Sencha Touch
+
+---

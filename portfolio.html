@@ -1,0 +1,23 @@
+---
+layout: page
+title: "Portfolio"
+---
+<div class="hover-tiles">
+
+    {% for link in site.collection %}
+
+    <div class="hover-tile-outer" style="background: url({{link.img}});">
+      <div class="hover-tile-container">
+        <div class="hover-tile hover-tile-visible"></div>
+        <div class="hover-tile hover-tile-hidden">
+          <a href="{{link.url}}">
+            <h4>{{link.title}}</h4>
+            <p>{{link.summary}}</p>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    {% endfor %}
+
+</div>
