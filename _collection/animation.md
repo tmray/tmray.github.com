@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Animation"
-summary: "Stand-alone shop page for albums"
+summary: "Animated cartoon projects"
 img: "/public/images/homemade-cartoon-screen.png"
 tag: [animation, cartoons]
 ---
