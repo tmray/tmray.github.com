@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: portfolio
 title: "Websites"
 summary: "Stand-alone shop page for albums"
 img: "/public/images/low-download-page.png"

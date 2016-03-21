@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: portfolio
 title: "Animation"
 summary: "Animated cartoon projects"
 img: "/public/images/homemade-cartoon-screen.png"

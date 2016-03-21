@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: portfolio
 title: "E-Cart Prototype"
 summary: "Stand-alone shop page for albums"
 img: "/public/images/e-store-prototype.jpg"
