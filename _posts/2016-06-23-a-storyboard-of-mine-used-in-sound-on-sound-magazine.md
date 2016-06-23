@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: A storyboard of mine used in Sound On Sound Magazine
 ---
