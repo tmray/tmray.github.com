@@ -11,4 +11,4 @@ Spitballing ideas for a comic series.
 
 Panel scraps from this session.
 
-<object width="450" height="346"><param name="movie" value="http://backend.deviantart.com/embed/view.swf?1"><param name="flashvars" value="id=678009073&width=1337"><param name="allowScriptAccess" value="always"><embed src="http://backend.deviantart.com/embed/view.swf?1" type="application/x-shockwave-flash" width="450" height="346" flashvars="id=678009073&width=1337" allowscriptaccess="always"></embed></object><br><a href="http://tmray.deviantart.com/art/comic-panel-post-it-concepts-678009073">comic panel post-it concepts</a> by <span class="username-with-symbol u"><a class="u regular username" href="http://tmray.deviantart.com/">tmray</a><span class="user-symbol regular" data-quicktip-text="" data-show-tooltip="" data-gruser-type="regular"></span></span> on <a href="http://www.deviantart.com">DeviantArt</a>
+![post-it note scraps](http://img07.deviantart.net/ba4e/i/2017/120/9/e/comic_panel_post_it_concepts_by_tmray-db7o35d.jpg)
