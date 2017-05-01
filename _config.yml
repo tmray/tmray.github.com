@@ -22,7 +22,7 @@ url: "http://tmray.github.io" # the base hostname & protocol for your site, e.g.
 
 # Build settings
 markdown: kramdown
-theme: beautiful-jekyll-theme
+#theme: beautiful-jekyll-theme
 paginate: 5
 gems:
   - jekyll-paginate
