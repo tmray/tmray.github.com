@@ -3,7 +3,7 @@ title: Tom Ray
 email: tmray1@gmail.com
 description: My blog. Currently I'm obsessed with mini-comics and mix tapes. My interests can change at any moment.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tmray.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://tmray.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
@@ -29,7 +29,7 @@ navbar-links:
   # Author's home: "http://deanattali.com"
 
 # image icon
-avatar: "public/images/profile_400x400.jpg"
+avatar: "/public/images/profile_400x400.jpg"
 
 permalink: pretty
 
