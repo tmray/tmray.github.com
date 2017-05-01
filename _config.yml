@@ -44,6 +44,8 @@ navbar-links:
 # image icon
 avatar: "https://pbs.twimg.com/profile_images/827176612768649216/n1qbvhIl_400x400.jpg"
 
+permalink: pretty
+
 # social in footer
 author:
   name: Tom Ray
