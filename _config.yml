@@ -1,34 +1,75 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-# relative_permalinks: true
 
-# Setup
-title:               Tom Ray
-tagline:             'A place to put my stuff.'
-description:         'The thoughts of a man who has nothing relevant on his mind. Made by <a href="https://twitter.com/tmray" target="_blank">@tmray</a>.'
-url:                 http://tmray.github.io
-baseurl:             ''
-paginate:            5
+title: Tom Ray
+email: tmray1@gmail.com
+description: My blog. Currently I'm obsessed with mini-comics and mix tapes. My interests can change at any moment.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://tmray.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-# About/contact
+
+# Build settings
+markdown: kramdown
+#theme: beautiful-jekyll-theme
+paginate: 5
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# navigation
+navbar-links:
+  Home: ""
+  About Me: "about"
+  # Resources:
+  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #   - Learn markdown: "http://www.markdowntutorial.com/"
+  #   - GitHub Pages: "https://pages.github.com/"
+  # Author's home: "http://deanattali.com"
+
+# image icon
+avatar: "/public/images/profile_400x400.jpg"
+
+permalink: pretty
+
+# social in footer
 author:
-  name:              Tom Ray
-  url:               https://twitter.com/tmray
-  email:             tmray1@gmail.com
-  twitter_username:  tmray
+  name: Tom Ray
+  email: "tmray1@gmail.com"
+  facebook: tmray1  # eg. daattali
+  github: tmray    # eg. daattali
+  twitter: tmray   # eg. daattali
+  # telephone: yourphone     # eg. +14159998888
+  # reddit: yourname    # eg. daattali
+  # google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  # linkedin: yourname  # eg. daattali
+  # xing: yourname      # eg. daattali
+  # stackoverflow: yourlink  # eg. "3943160/daattali"
+  # snapchat: yourname  # eg. daattali
+  # instagram: yourname # eg. daattali
+  youtube: tmray   # eg. user/daattali or channel/daattali
+  # spotify: yourname   # eg. daattali
 
-# Custom vars
-version:             0.4
+# feed
+rss-footer: true
 
-github:
-  repo:              https://github.com/tmray/tmray.github.com
+url-pretty: "tmray.github.io"
+
+# post buttons
+share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: false
+
+# if wanting comments
+# disqus: yourshortname
+
+# Google Analytics (this is my old blog one, may need to update)
+google_analytics: UA-327863-4
 
 # Collection folders
 collections:
   collection:
     output: true
-
-
-gems: [jekyll-paginate, jekyll-gist]

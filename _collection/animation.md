@@ -1,15 +1,14 @@
 ---
-layout: portfolio
+layout: post
 title: "Animation"
 summary: "Animated cartoon projects"
 img: "/public/images/homemade-cartoon-screen.png"
 tag: [animation, cartoons]
+# css: /css/tom.css
 ---
 
-<div class="video">
-  <div class="video-wrapper">
-      <iframe width="960" height="720" src="https://www.youtube.com/embed/bcG0WBJ2oD8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-  </div>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="960" height="720" src="https://www.youtube.com/embed/bcG0WBJ2oD8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Radio Adventures Of Dr. Floyd #407 "Executive Decision!"
@@ -21,15 +20,14 @@ Travel back in history to visit George Washington (Tambor) and his cabinet of ad
 
 Jeffrey Tambor is the star of countless movies and television shows including Arrested Development and The SpongeBob Movie. Chris Hardwick was the host @midnight & The Nerdist Podcast.
 
-Animated By Tom Ray - http://www.HomemadeCartoons.com
-For more Dr. Floyd fun visit - http://www.DoctorFloyd.com
+Animated By Tom Ray - [http://www.HomemadeCartoons.com](http://www.HomemadeCartoons.com)
+
+For more Dr. Floyd fun visit - [http://www.DoctorFloyd.com](http://www.DoctorFloyd.com)
 
 ---
 
-<div class="video">
-  <div class="video-wrapper">
-      <iframe width="960" height="720" src="https://www.youtube.com/embed/Feb6eRUNRfU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-  </div>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="960" height="720" src="https://www.youtube.com/embed/Feb6eRUNRfU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Xylus & Dexter in Space! Ep1 - Fly Right
@@ -41,10 +39,8 @@ See the series at [homemadecartoons.com](http://homemadecartoons.com)
 
 ---
 
-<div class="video">
-  <div class="video-wrapper">
-      <iframe width="853" height="480" src="https://www.youtube.com/embed/-nAskBDpDm4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-  </div>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="853" height="480" src="https://www.youtube.com/embed/-nAskBDpDm4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Chipmunk
