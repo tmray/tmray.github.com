@@ -17,6 +17,7 @@ I hopped on Twitter the other day and streamed video of me going through lesson 
 
 The outcome is an 8 panel comic of a character made of shapes, a location, an object and an action.
 
-Here is mine when I was finished. 
+Here is mine when I was finished.
+
 ![eight panel](http://img07.deviantart.net/ddcc/i/2017/128/1/2/8_panel_lesson_by_tmray-db8jfz9.jpg)
 
