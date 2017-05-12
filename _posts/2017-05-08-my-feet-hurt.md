@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My feet hurt
+categories: comics then-this-happened
 ---
 ![My feet hurt](/public/images/may-8-2017-comic.png)
 
@@ -8,7 +9,7 @@ My skin and my feet become uncomfortable in doctors offices.
 
 ---
 
-Ive been leaning on drawing lately to help take my mind off of things. I'm currently reading a lesson book called ["Cartooning philosophy and practice" by **Ivan Brunetti**](http://amzn.to/2qjhjBH). 
+Ive been leaning on drawing lately to help take my mind off of things. I'm currently reading a lesson book called ["Cartooning philosophy and practice" by **Ivan Brunetti**](http://amzn.to/2qjhjBH).
 
 I hopped on Twitter the other day and streamed video of me going through lesson 4
 
@@ -20,4 +21,3 @@ The outcome is an 8 panel comic of a character made of shapes, a location, an ob
 Here is mine when I was finished.
 
 ![eight panel](http://img07.deviantart.net/ddcc/i/2017/128/1/2/8_panel_lesson_by_tmray-db8jfz9.jpg)
-
