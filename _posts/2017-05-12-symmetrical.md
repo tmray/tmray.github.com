@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Symmetrical
-Categories: comics then-this-happened
+categories: comics then-this-happened
 ---
 ![symmetrical](/public/images/may-12-2017-comic.png)
 
