@@ -72,6 +72,8 @@ exclude:
 # navigation
 navbar-links:
   Home: ""
+  Comics:
+    - Then this happened: "comics/then-this-happened/"
   About Me: "about"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
