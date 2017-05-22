@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Tom Ray
-subtitle: My blog. Currently I'm obsessed with mini-comics and mix tapes. My interests can change at any moment.
+title: Then This Happened
+subtitle: My daily comic journal about life while dealing with my wife's breast cancer.
+permalink: /comics/then-this-happened/
 pagination:
   enabled: true
+  category: then-this-happened
 ---
 
 <div class="posts-list">
@@ -31,7 +33,7 @@ pagination:
     </div>
     {% endif %}
 
-   </article>
+  </article>
   {% endfor %}
 </div>
 
@@ -39,12 +41,12 @@ pagination:
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | replace: '//', '/' }}">&larr; Newer Posts</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">&larr; Newer</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | replace: '//', '/' }}">Older Posts &rarr;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older &rarr;</a>
   </li>
   {% endif %}
 </ul>
