@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-show-avatar: true
+bigimg: https://pbs.twimg.com/profile_banners/7373792/1486049248/1500x500
+#show-avatar: true
 ---
 I am the singer/songwriter for the band [Lorenzo's Music](http://www.lorenzosmusic.com).<br/>
 Also the co-host of the [Music Manumit Podcast](http://www.musicmanumit.com).
