@@ -1,6 +1,5 @@
 
 title: Tom Ray
-email: tmray1@gmail.com
 description: My blog. Currently I'm obsessed with mini-comics and mix tapes. My interests can change at any moment.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tmray.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -63,7 +62,7 @@ markdown: kramdown
 #paginate: 5
 
 gems:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-feed
 exclude:
   - Gemfile
@@ -93,6 +92,7 @@ author:
   facebook: tmray1  # eg. daattali
   github: tmray    # eg. daattali
   twitter: tmray   # eg. daattali
+  youtube: tmray   # eg. user/daattali or channel/daattali
   # telephone: yourphone     # eg. +14159998888
   # reddit: yourname    # eg. daattali
   # google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -101,11 +101,25 @@ author:
   # stackoverflow: yourlink  # eg. "3943160/daattali"
   # snapchat: yourname  # eg. daattali
   # instagram: yourname # eg. daattali
-  youtube: tmray   # eg. user/daattali or channel/daattali
   # spotify: yourname   # eg. daattali
 
-# feed
-rss-footer: true
+# Select which links to show in the footer
+footer-links-active:
+  rss: true
+  facebook: true
+  email: true
+  twitter: true
+  google-plus: false
+  github: false
+  reddit: false
+  linkedin: false
+  xing: false
+  stackoverflow: false
+  snapchat: false
+  instagram: false
+  youtube: true
+  spotify: false
+  telephone: false
 
 url-pretty: "tmray.github.io"
 
