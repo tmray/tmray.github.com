@@ -11,7 +11,7 @@ markdown: kramdown
 #theme: beautiful-jekyll-theme
 paginate: 5
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
 exclude:
