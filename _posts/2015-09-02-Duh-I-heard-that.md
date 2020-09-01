@@ -2,7 +2,7 @@
 layout: post
 title: Duh, I heard that!
 ---
-![Les Lye as Barth](http://farm3.static.flickr.com/2598/3750653370_cd751a76c0_o.jpg)
+![Les Lye as Barth](https://farm3.static.flickr.com/2598/3750653370_cd751a76c0_o.jpg)
 
 I remember the actor that played all of the adult male characters on the show **You can't do that on television**.
 

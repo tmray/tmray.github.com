@@ -17,5 +17,5 @@ Weather is a great mood for music. Making things sound like Halloween or gray co
 What winter sounds like:
 ---
 **Tom Waits - The Black Rider**<br/>
-<a href="http://www.amazon.com/gp/product/B000W29AXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000W29AXO&linkCode=as2&tag=lorsmus-20&linkId=2Q5XW2LBB5O3SNCE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000W29AXO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lorsmus-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=lorsmus-20&l=as2&o=1&a=B000W29AXO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B000W29AXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000W29AXO&linkCode=as2&tag=lorsmus-20&linkId=2Q5XW2LBB5O3SNCE"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000W29AXO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lorsmus-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lorsmus-20&l=as2&o=1&a=B000W29AXO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

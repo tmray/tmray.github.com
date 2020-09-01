@@ -3,7 +3,7 @@ layout: post
 title: How Martin Mull and Fred Willard changed my musical path forever
 ---
 ![Martin Mull and Fred Willard](https://lh3.googleusercontent.com/WDeWjtt4VsU2Eqw8UbIX-Qgm0z1-k0GxVz77Na12bZkI=w800-h540-no)
-<cite> <small>-image via: [sitcomsonline.com](http://www.sitcomsonline.com/photopost/showphoto.php/photo/307233)</small></cite>
+<cite> <small>-image via: [sitcomsonline.com](https://www.sitcomsonline.com/photopost/showphoto.php/photo/307233)</small></cite>
 
 In my 20's I was really looking for something different.
 
@@ -47,8 +47,8 @@ I know it was supposed to be funny but there was something about it. Something I
 
 I remember clearly, turning to my wife when he was done and saying, "If this guy is actually a musician and not just an actor? I'm going out and buying this album tomorrow."
 
-<a href="http://www.amazon.com/gp/product/B001EURPAI/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001EURPAI&linkCode=as2&tag=lorsmus-20&linkId=V6ZLMW7AWNAKS4IP" style="float:right; margin-bottom: 10px; margin-left: 10px;"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001EURPAI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lorsmus-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=lorsmus-20&l=as2&o=1&a=B001EURPAI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-I went to the record store the next day, that's how we rolled at the time. Looked up his name and sure enough, not only was he there, but he had several albums. I looked for the song from last night and found it on one called [**Small Change**](http://amzn.to/1Vkd6nr).
+<a href="https://www.amazon.com/gp/product/B001EURPAI/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001EURPAI&linkCode=as2&tag=lorsmus-20&linkId=V6ZLMW7AWNAKS4IP" style="float:right; margin-bottom: 10px; margin-left: 10px;"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001EURPAI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lorsmus-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lorsmus-20&l=as2&o=1&a=B001EURPAI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+I went to the record store the next day, that's how we rolled at the time. Looked up his name and sure enough, not only was he there, but he had several albums. I looked for the song from last night and found it on one called [**Small Change**](https://amzn.to/1Vkd6nr).
 
 I had no idea what to expect. And Jesus, did I not expect this! Thought maybe at its worst, it would be a comedy album.
 
@@ -58,8 +58,8 @@ It was different from anything around at the time. I had discovered something.
 
 But here's the thing. This album was from the 70's. And at this time, I was unaware that **he was about release a new album.**
 
-<a href="http://www.amazon.com/gp/product/B000W2169A/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000W2169A&linkCode=as2&tag=lorsmus-20&linkId=SMNACXX5STADLME6" style="float: left; margin-right: 10px; margin-bottom: 10px;"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000W2169A&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lorsmus-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=lorsmus-20&l=as2&o=1&a=B000W2169A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-Then, when I went back to get more by this guy, I saw it. [**Bone Machine**](http://amzn.to/1JrEVF2).
+<a href="https://www.amazon.com/gp/product/B000W2169A/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000W2169A&linkCode=as2&tag=lorsmus-20&linkId=SMNACXX5STADLME6" style="float: left; margin-right: 10px; margin-bottom: 10px;"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000W2169A&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lorsmus-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lorsmus-20&l=as2&o=1&a=B000W2169A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+Then, when I went back to get more by this guy, I saw it. [**Bone Machine**](https://amzn.to/1JrEVF2).
 
 I didn't know it, but **this album was going to change my musical direction forever.**
 

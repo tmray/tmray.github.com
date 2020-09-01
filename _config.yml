@@ -3,7 +3,7 @@ title: Tom Ray
 email: tmray1@gmail.com
 description: My old blog. Currently I'm running an art podcast, drawing a daily webcomic and vlogging at this website [https://www.tomrayswebsite.com](https://www.tomrayswebsite.com).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tmray.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tmray.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 
 # Build settings
@@ -23,10 +23,10 @@ navbar-links:
   Home: ""
   About Me: "about"
   # Resources:
-  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  #   - Learn markdown: "http://www.markdowntutorial.com/"
+  #   - Beautiful Jekyll: "https://deanattali.com/beautiful-jekyll/"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
   #   - GitHub Pages: "https://pages.github.com/"
-  # Author's home: "http://deanattali.com"
+  # Author's home: "https://deanattali.com"
 
 # image icon
 avatar: "/public/images/profile_400x400.jpg"

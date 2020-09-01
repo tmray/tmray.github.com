@@ -20,9 +20,9 @@ Travel back in history to visit George Washington (Tambor) and his cabinet of ad
 
 Jeffrey Tambor is the star of countless movies and television shows including Arrested Development and The SpongeBob Movie. Chris Hardwick was the host @midnight & The Nerdist Podcast.
 
-Animated By Tom Ray - [http://www.HomemadeCartoons.com](http://www.HomemadeCartoons.com)
+Animated By Tom Ray - [https://www.HomemadeCartoons.com](https://www.HomemadeCartoons.com)
 
-For more Dr. Floyd fun visit - [http://www.DoctorFloyd.com](http://www.DoctorFloyd.com)
+For more Dr. Floyd fun visit - [https://www.DoctorFloyd.com](https://www.DoctorFloyd.com)
 
 ---
 
@@ -35,7 +35,7 @@ Xylus & Dexter in Space! Ep1 - Fly Right
 
 This is Episode 1 of the internet cartoon series I started at the end of 2003 Called Xylus and Dexter in Space! It starred my kids Xylus and Dexter who also did the voices.
 
-See the series at [homemadecartoons.com](http://homemadecartoons.com)
+See the series at [homemadecartoons.com](https://homemadecartoons.com)
 
 ---
 

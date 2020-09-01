@@ -2,9 +2,9 @@
 layout: post
 title: Talked with State Shirt
 ---
-I got the chance to talk with **Ethan Tufts** this weekend [on my podcast.](http://www.musicmanumit.com/2015/10/state-shirt-2-151025-music-manumit.html)
+I got the chance to talk with **Ethan Tufts** this weekend [on my podcast.](https://www.musicmanumit.com/2015/10/state-shirt-2-151025-music-manumit.html)
 
-Ethan, is a musician that goes by the name **State Shirt**. Had him on the show before and this time he was back to talk about his [**new album "Lost Hills"**](http://music.stateshirt.com/album/lost-hills).
+Ethan, is a musician that goes by the name **State Shirt**. Had him on the show before and this time he was back to talk about his [**new album "Lost Hills"**](https://music.stateshirt.com/album/lost-hills).
 
 This isn't out of the ordinary to have a guest on promoting a new album. In fact, it's usually one of the main reasons we have someone on the show. 
 
@@ -24,4 +24,4 @@ Get it? “Seedie”?
 
 I love meeting people that find different and unique ways of doing this. It's one of the best reasons for doing the show.
 
-Check out the [State Shirt interview here](http://www.musicmanumit.com/2015/10/state-shirt-2-151025-music-manumit.html).
+Check out the [State Shirt interview here](https://www.musicmanumit.com/2015/10/state-shirt-2-151025-music-manumit.html).

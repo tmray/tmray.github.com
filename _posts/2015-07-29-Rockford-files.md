@@ -2,7 +2,7 @@
 layout: post
 title: Rockford files
 ---
-![Rockford Files](http://watchesinmovies.info/img/f2/Rockford-Files02.jpg)
+![Rockford Files](https://watchesinmovies.info/img/f2/Rockford-Files02.jpg)
 
 I've been watching the Rockford Files recently. It's a private detective television show starring James Garner from the 1970s.
 

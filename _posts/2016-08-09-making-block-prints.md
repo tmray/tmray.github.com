@@ -4,7 +4,7 @@ title: Making Block Prints
 ---
 ![T-shirt print](/public/images/shirt-print.png)
 
-I was talking with musician [Curtis Chris Roman on the podcast this week](http://www.musicmanumit.com/2016/08/curtis-chris-roman-160807-music-manumit.html). During the interview he told me about a thing he does on the side, making block prints. 
+I was talking with musician [Curtis Chris Roman on the podcast this week](https://www.musicmanumit.com/2016/08/curtis-chris-roman-160807-music-manumit.html). During the interview he told me about a thing he does on the side, making block prints. 
 
 What you do is, carve a design on a linoleum block, then roll ink on it, and make a print by pressing that on to something. 
 

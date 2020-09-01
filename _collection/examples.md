@@ -136,8 +136,8 @@ This is to check that the components meet the expectations before implementing a
 
 **Examples created**
 
-* Store home page - [http://goo.gl/pEXq9p](http://goo.gl/pEXq9p)
-* Album preview/buy page - [http://goo.gl/XKj0I8](http://goo.gl/XKj0I8)
+* Store home page - [https://goo.gl/pEXq9p](https://goo.gl/pEXq9p)
+* Album preview/buy page - [https://goo.gl/XKj0I8](https://goo.gl/XKj0I8)
 
 ---
 

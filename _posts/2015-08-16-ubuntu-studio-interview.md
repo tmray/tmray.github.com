@@ -20,4 +20,4 @@ They even have a live bootable DVD you can download to try it on your computer f
 
 On the podcast that I do, Music Manumit, we were lucky enough this week to talk to Kaj, the person leading this project.
 
-You can have a listen to the interview on the site. [Ubuntu Studio - 150816 - Music Manumit Podcast](http://www.musicmanumit.com/2015/08/ubuntu-studio-150816-music-manumit.html)
+You can have a listen to the interview on the site. [Ubuntu Studio - 150816 - Music Manumit Podcast](https://www.musicmanumit.com/2015/08/ubuntu-studio-150816-music-manumit.html)

@@ -2,13 +2,13 @@
 layout: post
 title: It sounded like a good idea to me
 ---
-Talked with musician Chris Zabriskie [on my podcast this week](http://www.musicmanumit.com/2015/09/another-chris-zabriskie-150913-music.html).
+Talked with musician Chris Zabriskie [on my podcast this week](https://www.musicmanumit.com/2015/09/another-chris-zabriskie-150913-music.html).
 
 He's put out several albums and his songs have been used in many different places. From **Cartoon Network** to **Nissan** and even used in a **porn movie**. All while distributed under a **creative commons license**.
 
 We've had him on the show several times and he's a great guy to talk to and learn things from.
 
-This time we had him on to talk about his new album [Thoughtless](http://amzn.to/1NqSMhs).
+This time we had him on to talk about his new album [Thoughtless](https://amzn.to/1NqSMhs).
 
 During the conversation he told me an idea he was thinking of when he made the album. He wanted to transfer it to a vhs tape. Plug directly into a VCR and record the audio to it, using a stack of vhs tapes that he had.
 

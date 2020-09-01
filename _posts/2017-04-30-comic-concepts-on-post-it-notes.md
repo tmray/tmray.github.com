@@ -11,4 +11,4 @@ Spitballing ideas for a comic series.
 
 Panel scraps from this session.
 
-![post-it note scraps](http://img07.deviantart.net/ba4e/i/2017/120/9/e/comic_panel_post_it_concepts_by_tmray-db7o35d.jpg)
+![post-it note scraps](https://img07.deviantart.net/ba4e/i/2017/120/9/e/comic_panel_post_it_concepts_by_tmray-db7o35d.jpg)

@@ -4,7 +4,7 @@ title: So small it seemed scary
 ---
 ![collage](/public/images/makemusiccollage.png)
 
-[My band](http://lorenzosmusic.com) played a show recently. It wasn't a normal show, it was part of a city wide event called [#MakeMusicMadison](https://twitter.com/hashtag/makemusicmadison?s=09). An event where, for one day, musicians pop up to play in various public places. 
+[My band](https://lorenzosmusic.com) played a show recently. It wasn't a normal show, it was part of a city wide event called [#MakeMusicMadison](https://twitter.com/hashtag/makemusicmadison?s=09). An event where, for one day, musicians pop up to play in various public places. 
 
 We were asked to play on a porch at someone's house right off the lake at 8pm. One of the last shows of the day. Seemed like a fun thing to do, no pressure.
 

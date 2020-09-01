@@ -6,12 +6,12 @@ Worked on some of my other projects this weekend and had updates I wanted to sha
 
 ##Lorenzo's Music - "We all fall down" video
 
-Posted a live in studio performance video. One of the songs from an internet show put on my band [Lorenzo's Music](http://www.lorenzosmusic.com/2015/07/we-all-fall-down-live-video.html). 
+Posted a live in studio performance video. One of the songs from an internet show put on my band [Lorenzo's Music](https://www.lorenzosmusic.com/2015/07/we-all-fall-down-live-video.html). 
 
 This is the first song from that event - **"We all fall down"**.
 
 <a href="https://www.youtube.com/watch?v=JMb83zASU5U" target="_blank">
-  <img alt="image/video" border="0" src="http://1.bp.blogspot.com/-vZK1G5zZGOg/VbRafPETq1I/AAAAAAAAbLs/wQwsELteRzU/s800/yt-we-all-fall-down-video-title-card-w-button.png" title="Play Video &quot;We All Fall Down&quot;" />
+  <img alt="image/video" border="0" src="https://1.bp.blogspot.com/-vZK1G5zZGOg/VbRafPETq1I/AAAAAAAAbLs/wQwsELteRzU/s800/yt-we-all-fall-down-video-title-card-w-button.png" title="Play Video &quot;We All Fall Down&quot;" />
 </a>
 
 We took a Google hangout live stream and went one better. Got ourselves set up with 3 cameras, had someone we know direct it and ran the sound though the studio mixer.
@@ -28,4 +28,4 @@ Took this chance to have a discussion with my co-host Doug, about creative commo
 
 Common mistake people make is, you can do anything you want with music under a CC license. That's not true.  The license itself says "Some rights reserved". These rights apply **with** basic copyright, not remove it.
 
-Have a listen to the episode on the [Music Manumit Podcast website](http://www.musicmanumit.com/2015/07/copyright-fight-150726-music-manumit.html).
+Have a listen to the episode on the [Music Manumit Podcast website](https://www.musicmanumit.com/2015/07/copyright-fight-150726-music-manumit.html).
