@@ -1,7 +1,7 @@
 
 title: Tom Ray
 email: tmray1@gmail.com
-description: My old blog. Currently I'm running an art podcast, drawing a daily webcomic and vlogging at this website [https://www.tomrayswebsite.com](https://www.tomrayswebsite.com).
+description: My old blog. Currently I'm running an art podcast, drawing a daily webcomic and vlogging at this website tomrayswebsite.com. # the description on homepage is in the index.html yaml I should change that.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tmray.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
