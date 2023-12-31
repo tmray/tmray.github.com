@@ -47,7 +47,7 @@ author:
   # xing: yourname      # eg. daattali
   # stackoverflow: yourlink  # eg. "3943160/daattali"
   # snapchat: yourname  # eg. daattali
-  # instagram: yourname # eg. daattali
+  instagram: tmray # eg. daattali
   youtube: tmray   # eg. user/daattali or channel/daattali
   # spotify: yourname   # eg. daattali
 
@@ -67,7 +67,7 @@ share-links-active:
 # disqus: yourshortname
 
 # Google Analytics (this is my old blog one, may need to update)
-google_analytics: UA-327863-4
+# google_analytics: UA-327863-4
 
 # Collection folders
 collections:
